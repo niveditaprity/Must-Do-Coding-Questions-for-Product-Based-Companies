@@ -9,4 +9,5 @@
 
 # Tree
 - 1.Largest value in each level :[Largest value in each level](https://practice.geeksforgeeks.org/problems/largest-value-in-each-level/1/#)
+- 2.Diameter of Binary Tree :[Diameter of Binary Tree](https://practice.geeksforgeeks.org/problems/diameter-of-binary-tree/1#)
            
