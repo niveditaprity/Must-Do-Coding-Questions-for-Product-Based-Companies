@@ -12,4 +12,5 @@
 - 2.Diameter of Binary Tree :[Diameter of Binary Tree](https://practice.geeksforgeeks.org/problems/diameter-of-binary-tree/1#)
 - 3.Check for Balanced Tree  :[Check for Balanced Tree ](https://practice.geeksforgeeks.org/problems/check-for-balanced-tree/1#)
 - 4.Height of Binary Tree  :[Height of Binary Tree ](https://practice.geeksforgeeks.org/problems/height-of-binary-tree/1)
+- 5.Check for BST :[Check for BST ](https://practice.geeksforgeeks.org/problems/check-for-bst/1#)
            
